@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget --version)",
+      "Bash(git --version)",
+      "Bash(npm --version)"
+    ]
+  }
+}
